@@ -24,3 +24,5 @@
 | Persistence | PostgreSQL + pgvector (optional), or in-memory storage; other entities are stored as local JSON files (see the data directory below) |
 | LLM | OpenAI / Claude / Qwen / DeepSeek / custom OpenAI-compatible gateway; automatically falls back to local responses when no API key is configured or when a real API call fails |
 | Voice & Attachments | Voice input via Web Speech / CPI audio bridge, plus text attachments used as context |
+
+>You can download this app from releases tag.
